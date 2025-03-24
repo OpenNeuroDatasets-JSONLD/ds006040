@@ -1,0 +1,24 @@
+{
+  "Name": "Sustained Attention Task (gradCPT) Dataset using simultaneous EEG-fMRI and DTI",
+  "BIDSVersion": "BIDS 1.0.0",
+  "Authors": [
+    "Y.C.",
+    "Y.L.",
+    "J.Y.M.",
+    "E.J.",
+    "S.H.H.",
+    "S.M.",
+    "H.K.",
+    "M.C.",
+    "H.L.",
+    "Y.P."
+  ],
+  "Description": "This dataset includes simultaneous EEG&fMRI, DWI, and behavioral data collected from participants performing a sustained attention task.",
+  "Subjects": "28 healthy adults (16 female; mean age 27.34±6.58 years old), of whom 23 were right-handed(16 female; mean age 27.34±6.58 years old), of whom 23 were right-handed.",
+  "Data_Types": [
+    "EEG",
+    "fMRI",
+    "DWI",
+    "Behavioral"
+  ]
+}
