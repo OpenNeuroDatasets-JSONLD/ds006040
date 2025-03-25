@@ -21,5 +21,8 @@
         "DWI",
         "Behavioral"
     ],
-    "License": "CC0"
+    "License": "CC0",
+    "Funding": [
+        "IBS-R015-Y3 "
+    ]
 }
