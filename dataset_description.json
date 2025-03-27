@@ -29,5 +29,6 @@
     "Acknowledgements": "The authors thank Suji Jeong and Boohee Choi (MR technical staffs) for the set-up and maintenance of the fMRI experiment. We express our gratitude to Jihyang Jun for providing the experimental codes for the gradCPT task. Our thanks also go to Qawi K. Telesford and Ting Xu for their guidance on the simultaneous EEG-fMRI recording experiment. We appreciate the valuable advice of Min-Suk Kang on the overall experimental pipeline and manuscript. We are grateful to Kyeong-Jin Tark and Yoonjung Lee for their insights on the gradCPT task. Lately, we extend our gratitude to Eun Sil Choi and her team for sharing the Korean version of the Big Five short form questionnaire. ",
     "EthicsApprovals": [
         "All experiments were conducted with the approval of the Institutional Review Board of Sungkyunkwan University (South Korea), and written informed consent was obtained from all participants prior to the experiment. Additionally, all participants' structural MRI images were defaced to ensure anonymity."
-    ]
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006040.v1.0.0"
 }
