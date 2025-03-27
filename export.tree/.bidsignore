@@ -1,0 +1,8 @@
+BFI_short_form.tsv
+Demographic_Information.tsv
+GradCPT_behavior_read_me.json
+README_dataset.txt
+demographic_information_read_me.json
+sub-024/eeg/*_eeg.fdt
+sub-024/eeg/*_eeg.set
+sub-024/eeg/*_eeg.json
