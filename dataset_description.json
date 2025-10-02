@@ -1,6 +1,6 @@
 {
     "Name": "Sustained Attention Task (gradCPT) Dataset using simultaneous EEG-fMRI and DTI",
-    "BIDSVersion": "BIDS 1.0.0",
+    "BIDSVersion": "1.4.0",
     "Authors": [
         "Younghwa Cha",
         "Yeji Lee",
@@ -30,5 +30,11 @@
     "EthicsApprovals": [
         "All experiments were conducted with the approval of the Institutional Review Board of Sungkyunkwan University (South Korea), and written informed consent was obtained from all participants prior to the experiment. Additionally, all participants' structural MRI images were defaced to ensure anonymity."
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds006040.v1.0.0"
+    "SourceDatasets": [
+    {
+    "DOI": "10.18112/openneuro.ds006040.v1.0.0",
+    "URL": "https://doi.org/10.18112/openneuro.ds006040.v1.0.0",
+    "Version": "1.0.0"
+    }
+  ]
 }
