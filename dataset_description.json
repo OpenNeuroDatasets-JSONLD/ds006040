@@ -31,10 +31,11 @@
         "All experiments were conducted with the approval of the Institutional Review Board of Sungkyunkwan University (South Korea), and written informed consent was obtained from all participants prior to the experiment. Additionally, all participants' structural MRI images were defaced to ensure anonymity."
     ],
     "SourceDatasets": [
-    {
-    "DOI": "10.18112/openneuro.ds006040.v1.0.0",
-    "URL": "https://doi.org/10.18112/openneuro.ds006040.v1.0.0",
-    "Version": "1.0.0"
-    }
-  ]
+        {
+            "DOI": "10.18112/openneuro.ds006040.v1.0.0",
+            "URL": "https://doi.org/10.18112/openneuro.ds006040.v1.0.0",
+            "Version": "1.0.0"
+        }
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006040.v1.0.1"
 }
